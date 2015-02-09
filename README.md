@@ -1,5 +1,10 @@
 # Bill Mollison's Classic 1981 Permaculture Design Course at the Rural Education Center in Wilton, New Hampshire
 
+This series of pamphlets is a complete transcript of an early Permaculture Design Course taught by Bill Mollison in 1981. The transcripts were typeset and [distributed online as a PDF](http://www.barkingfrogspermaculture.org/PDC_ALL.pdf) by Barking Frogs Permaculture. 
+
+
+
+
 This series of pamphlets is an essential piece of my permaculture education. As a complete transcript of one of the first Permaculture Design Courses ever taught, it has an unmistakable rawness, which, coupled with Bill Mollison's unique voice, makes for compelling reading. In keeping with the history of this document, I decided in 2014 to fully revamp it for a new generation of users and technology.
 
 The existing document was nicely laid out as a multi-column PDF. After discovering that the multi-column format was incompatible with my e-reader, I decided to copy the pamphlets into [Markdown](http://daringfireball.net/projects/markdown), a plain-text format that enables easy reading and exporting to other formats, including ebooks. This will ensure availability and usability of these valuable pamphlets, and hopefully will enable another generation of adaptive reuse and new users.
