@@ -1,5 +1,4 @@
-# permaculture-pamphlets
-Bill Mollison's Classic 1981 Permaculture Design Course at the Rural Education Center in Wilton, New Hampshire
+# Bill Mollison's Classic 1981 Permaculture Design Course at the Rural Education Center in Wilton, New Hampshire
 
 This series of pamphlets is an essential piece of my permaculture education. As a complete transcript of one of the first Permaculture Design Courses ever taught, it has an unmistakable rawness, which, coupled with Bill Mollison's unique voice, makes for compelling reading. In keeping with the history of this document, I decided in 2014 to fully revamp it for a new generation of users and technology.
 
